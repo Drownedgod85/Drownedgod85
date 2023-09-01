@@ -7,8 +7,6 @@ Motivated and skilled IT and software developer with expertise in Django and a p
 </detail>
   <summary>:zap: Github Stats</summary>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drownedgod85)](github-readme-stats.drownedgod85.vercel.app)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drownedgod85&langs_count=8)](https://github.com/drownedgod85/github-readme-stats)
 
 <!--START_SECTION:activity-->
