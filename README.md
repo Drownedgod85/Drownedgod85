@@ -1,6 +1,6 @@
 ![Stocks and Development](https://pbs.twimg.com/profile_banners/25960278/1436048193/1500x500)
 ## Hi there 👋
-I do Stocks and Development. I enjoy learning programming languages and frameworks like Django, as well as working on engineering embedded systems.. I also enjoy machine learning, blockchain, and investing in crypto and in the equity market.
+Motivated and skilled IT and software developer with expertise in Django and a passion for emerging technologies, including machine learning and blockchain. Actively involved in cryptocurrency and equity market investing. Committed to continuous learning and adaptable problem-solving. Eager to contribute expertise to dynamic projects and teams in the tech industry.
 
 ## Skills and Experience
 
